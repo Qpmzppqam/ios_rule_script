@@ -1,14 +1,14 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-08-01 03:15:08
+# UPDATED: 2026-08-12 02:54:20
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6757
+# DOMAIN-SUFFIX: 6760
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6897
+# TOTAL: 6900
 .000webhost.com
 .030buy.com
 .0rz.tw
@@ -232,6 +232,7 @@
 .ai-wen.net
 .ai.dev
 .ai.studio
+.aihub.top
 .aiosearch.com
 .aiph.net
 .airasia.com
@@ -982,6 +983,7 @@
 .centerforhumanreprod.com
 .centralnation.com
 .centurys.net
+.cerebras.ai
 .certificate-transparency.org
 .cex.io
 .cfhks.org.hk
@@ -1110,6 +1112,7 @@
 .chromercise.com
 .chromestatus.com
 .chromium.org
+.cht.com.tw
 .chuang-yen.org
 .chubold.com
 .chubun.com
@@ -1475,6 +1478,7 @@
 .disqus.com
 .disquscdn.com
 .dit-inc.us
+.divdyn.com
 .diyin.org
 .dizhidizhi.com
 .dizhuzhishang.com
@@ -1744,6 +1748,7 @@
 .eromon.net
 .eroprofile.com
 .eroticsaloon.net
+.esim.redteago.com
 .eslite.com
 .esmtp.biz
 .esurance.com
@@ -3734,7 +3739,6 @@
 .movements.org
 .moves-export.com
 .moviefap.com
-.mozilla.ai
 .mozilla.org
 .moztw.org
 .mp3buscador.com
@@ -4057,6 +4061,7 @@
 .ntdtv.jp
 .ntdtv.ru
 .ntdtvla.com
+.nthlink.com
 .ntrfun.com
 .ntu.edu.tw
 .nu.nl
@@ -4622,7 +4627,6 @@
 .radio.garden
 .radioaustralia.net.au
 .radiohilight.net
-.radiojar.com
 .radioline.co
 .radiotime.com
 .radiovaticana.org
@@ -6445,7 +6449,6 @@
 .wuyanblog.com
 .wwe.com
 .wwitv.com
-.www.clashverge.dev
 .www.lamenhu.com
 .www.orchidbbs.com
 .www.taup.org.tw

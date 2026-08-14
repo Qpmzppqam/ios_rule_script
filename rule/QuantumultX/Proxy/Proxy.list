@@ -1,14 +1,14 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-08-01 03:15:09
+# UPDATED: 2026-08-12 02:54:21
 # HOST: 19
 # HOST-KEYWORD: 26
-# HOST-SUFFIX: 7228
+# HOST-SUFFIX: 7231
 # IP-CIDR: 93
 # IP6-CIDR: 4
 # USER-AGENT: 8
-# TOTAL: 7378
+# TOTAL: 7381
 HOST,api.msn.com,Proxy
 HOST,api.waqi.info,Proxy
 HOST,aqi.aqicn.org,Proxy
@@ -259,6 +259,7 @@ HOST-SUFFIX,ai-wen.net,Proxy
 HOST-SUFFIX,ai.dev,Proxy
 HOST-SUFFIX,ai.google,Proxy
 HOST-SUFFIX,ai.studio,Proxy
+HOST-SUFFIX,aihub.top,Proxy
 HOST-SUFFIX,aiosearch.com,Proxy
 HOST-SUFFIX,aiph.net,Proxy
 HOST-SUFFIX,airasia.com,Proxy
@@ -1082,6 +1083,7 @@ HOST-SUFFIX,centauro.com.br,Proxy
 HOST-SUFFIX,centerforhumanreprod.com,Proxy
 HOST-SUFFIX,centralnation.com,Proxy
 HOST-SUFFIX,centurys.net,Proxy
+HOST-SUFFIX,cerebras.ai,Proxy
 HOST-SUFFIX,certificate-transparency.org,Proxy
 HOST-SUFFIX,cex.io,Proxy
 HOST-SUFFIX,cfhks.org.hk,Proxy
@@ -1211,6 +1213,7 @@ HOST-SUFFIX,chromeexperiments.com,Proxy
 HOST-SUFFIX,chromercise.com,Proxy
 HOST-SUFFIX,chromestatus.com,Proxy
 HOST-SUFFIX,chromium.org,Proxy
+HOST-SUFFIX,cht.com.tw,Proxy
 HOST-SUFFIX,chuang-yen.org,Proxy
 HOST-SUFFIX,chubold.com,Proxy
 HOST-SUFFIX,chubun.com,Proxy
@@ -1581,6 +1584,7 @@ HOST-SUFFIX,disq.us,Proxy
 HOST-SUFFIX,disqus.com,Proxy
 HOST-SUFFIX,disquscdn.com,Proxy
 HOST-SUFFIX,dit-inc.us,Proxy
+HOST-SUFFIX,divdyn.com,Proxy
 HOST-SUFFIX,diyin.org,Proxy
 HOST-SUFFIX,dizhidizhi.com,Proxy
 HOST-SUFFIX,dizhuzhishang.com,Proxy
@@ -1861,6 +1865,7 @@ HOST-SUFFIX,eromangadouzin.com,Proxy
 HOST-SUFFIX,eromon.net,Proxy
 HOST-SUFFIX,eroprofile.com,Proxy
 HOST-SUFFIX,eroticsaloon.net,Proxy
+HOST-SUFFIX,esim.redteago.com,Proxy
 HOST-SUFFIX,eslite.com,Proxy
 HOST-SUFFIX,esmtp.biz,Proxy
 HOST-SUFFIX,esurance.com,Proxy
@@ -4145,7 +4150,6 @@ HOST-SUFFIX,mousebreaker.com,Proxy
 HOST-SUFFIX,movements.org,Proxy
 HOST-SUFFIX,moves-export.com,Proxy
 HOST-SUFFIX,moviefap.com,Proxy
-HOST-SUFFIX,mozilla.ai,Proxy
 HOST-SUFFIX,mozilla.org,Proxy
 HOST-SUFFIX,moztw.org,Proxy
 HOST-SUFFIX,mp3buscador.com,Proxy
@@ -4469,6 +4473,7 @@ HOST-SUFFIX,ntdtv.cz,Proxy
 HOST-SUFFIX,ntdtv.jp,Proxy
 HOST-SUFFIX,ntdtv.ru,Proxy
 HOST-SUFFIX,ntdtvla.com,Proxy
+HOST-SUFFIX,nthlink.com,Proxy
 HOST-SUFFIX,ntrfun.com,Proxy
 HOST-SUFFIX,ntu.edu.tw,Proxy
 HOST-SUFFIX,nu.nl,Proxy
@@ -5059,7 +5064,6 @@ HOST-SUFFIX,radio.co,Proxy
 HOST-SUFFIX,radio.garden,Proxy
 HOST-SUFFIX,radioaustralia.net.au,Proxy
 HOST-SUFFIX,radiohilight.net,Proxy
-HOST-SUFFIX,radiojar.com,Proxy
 HOST-SUFFIX,radioline.co,Proxy
 HOST-SUFFIX,radiotime.com,Proxy
 HOST-SUFFIX,radiovaticana.org,Proxy
@@ -6925,7 +6929,6 @@ HOST-SUFFIX,wuw.red,Proxy
 HOST-SUFFIX,wuyanblog.com,Proxy
 HOST-SUFFIX,wwe.com,Proxy
 HOST-SUFFIX,wwitv.com,Proxy
-HOST-SUFFIX,www.clashverge.dev,Proxy
 HOST-SUFFIX,www.lamenhu.com,Proxy
 HOST-SUFFIX,www.orchidbbs.com,Proxy
 HOST-SUFFIX,www.taup.org.tw,Proxy
