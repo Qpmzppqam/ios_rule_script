@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-08-18 02:30:17
+# UPDATED: 2026-09-02 04:26:28
 # DOMAIN: 128
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 34723
+# DOMAIN-SUFFIX: 34755
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 35004
+# TOTAL: 35036
 1password.drift.click
 adobeereg.com
 agb9r0ad.qllfkl.com
@@ -517,6 +517,7 @@ login.microsoftonline.com
 +.59mvmv.com
 +.5axis-machining.com
 +.5beatsbydre.com
++.5ch.io
 +.5ch.net
 +.5fang.cc
 +.5itv.tv
@@ -663,6 +664,7 @@ login.microsoftonline.com
 +.9anime.id
 +.9anime.to
 +.9anime.ws
++.9cao9.com
 +.9ccms.me
 +.9cdn.net
 +.9hentai.ru
@@ -897,6 +899,7 @@ login.microsoftonline.com
 +.adguard.info
 +.adguard.io
 +.adguardaccount.com
++.adguardaccount.net
 +.adguardcdn.com
 +.adguardvpn.com
 +.adhelpnews.com
@@ -1755,6 +1758,7 @@ login.microsoftonline.com
 +.amazontrust.com
 +.amazonvideo.cc
 +.amazonvideodirect.com
++.amazonwebservices.com
 +.amazonworkdocs.com
 +.ambs.ac.uk
 +.amc.com
@@ -3926,6 +3930,7 @@ login.microsoftonline.com
 +.blackboxgames.com
 +.blackburn.ac.uk
 +.blackcountryandmarchesiot.ac.uk
++.blackedraw.com
 +.blackfridaydrebeatsnew.com
 +.blackfridaydrebeatsshop.com
 +.blackhomeporn.com
@@ -5676,7 +5681,6 @@ login.microsoftonline.com
 +.chatango.com
 +.chatgpt.com
 +.chatgpt.livekit.cloud
-+.chatgpt.site
 +.chatgptvideo.xyz
 +.chatgptvideob.buzz
 +.chatsex.xxx
@@ -7741,6 +7745,7 @@ login.microsoftonline.com
 +.dream-cdt.ac.uk
 +.dreambmw.ca
 +.dreamforce.com
++.dreamgen.com
 +.dreammovies.com
 +.dreamorder.com
 +.dreamteamfc.com
@@ -9331,6 +9336,7 @@ login.microsoftonline.com
 +.fans17.com
 +.fans66.tw
 +.fansking.tw
++.fansly.com
 +.fansnudes.com
 +.fansone.co
 +.fanspot.jp
@@ -10358,6 +10364,8 @@ login.microsoftonline.com
 +.gastrointestinalexam.com
 +.gate.ac.uk
 +.gate.cc
++.gate.tv
++.gateapi.io
 +.gatedata.org
 +.gateimg.com
 +.gateio.live
@@ -11398,6 +11406,7 @@ login.microsoftonline.com
 +.h-webtoon.com
 +.h0930.com
 +.h18ani1.vip
++.h264.io
 +.h2o.ai
 +.h2porn.com
 +.habr.com
@@ -12246,7 +12255,6 @@ login.microsoftonline.com
 +.hp-mns.com
 +.hp-printing.com
 +.hp-webplatform.com
-+.hp-ww.com
 +.hp.company
 +.hp.io
 +.hp3d.com
@@ -16304,6 +16312,7 @@ login.microsoftonline.com
 +.milftube.pro
 +.milftugs.com
 +.milfvr.com
++.milfy.com
 +.milfzr.com
 +.miliav.com
 +.milkmanbook.com
@@ -17870,11 +17879,12 @@ login.microsoftonline.com
 +.nicis.ac.uk
 +.nickscipio.com
 +.nicky.xxx
++.nico.ms
++.nicochannel.jp
 +.nicodic.jp
 +.nicolepeters.com
 +.nicomanga.jp
 +.niconico.com
-+.nicoseiga.jp
 +.niees.ac.uk
 +.niesr.ac.uk
 +.night.livedoor.biz
@@ -18161,6 +18171,7 @@ login.microsoftonline.com
 +.nonstopfap.com
 +.noodlemagazine.com
 +.noosferabank.ru
++.nordcdn.com
 +.norfolkcove.ac.uk
 +.norland.ac.uk
 +.normanmanagedservices.ac.uk
@@ -18200,6 +18211,7 @@ login.microsoftonline.com
 +.northumbria.ac.uk
 +.norton.com
 +.norwichresearchpark.ac.uk
++.notegpt.io
 +.noticias-rt.com
 +.notimundo.press
 +.notion-static.com
@@ -18223,6 +18235,7 @@ login.microsoftonline.com
 +.nottinghamtrentadfs.ac.uk
 +.nottm-coll.ac.uk
 +.nottsmaternity.ac.uk
++.novelai.net
 +.novella.ac.uk
 +.noveltrove.com
 +.novids.com
@@ -18957,6 +18970,7 @@ login.microsoftonline.com
 +.oursexgames.com
 +.ourshdtv.com
 +.ourshemales.com
++.ouryahoo.com
 +.oustudios.ac.uk
 +.out-app-purchase.com
 +.outbound.io
@@ -20962,6 +20976,7 @@ login.microsoftonline.com
 +.relu.ac.uk
 +.rememberingslavery.ac.uk
 +.remirepo.net
++.remna.st
 +.rems-cdt.ac.uk
 +.renaissanceskin.ac.uk
 +.rencapbank.ru
@@ -21595,7 +21610,6 @@ login.microsoftonline.com
 +.saynow.com
 +.sb-mobile.jp
 +.sb-telecom.net
-+.sb.sb
 +.sb24.com
 +.sbank.ir
 +.sbc.ac.uk
@@ -22529,6 +22543,7 @@ login.microsoftonline.com
 +.slashdot.org
 +.slavbank.ru
 +.slavicstar.com
++.slayed.com
 +.slc.ac.uk
 +.slc.tl
 +.slcollege.ac.uk
@@ -23711,6 +23726,7 @@ login.microsoftonline.com
 +.talantix.ru
 +.talentlens.com
 +.taleofthenight.com
++.talkai.info
 +.talkinghealthmatters.ac.uk
 +.talkingkotlin.com
 +.talksport.com
@@ -24350,6 +24366,7 @@ login.microsoftonline.com
 +.toperoticartsites.com
 +.topescort.nl
 +.topescortbabes.com
++.topexhib.net
 +.topface.com
 +.topfantasyart.com
 +.topfreepornvideos.com
@@ -24660,6 +24677,7 @@ login.microsoftonline.com
 +.turn.livekit.cloud
 +.tusco.ru
 +.tushy.com
++.tushyraw.com
 +.tuta.com
 +.tuta.io
 +.tutamail.com
@@ -25753,6 +25771,7 @@ login.microsoftonline.com
 +.vitukali.com
 +.vivaxnxx.com
 +.vixen.com
++.vixengroup.com
 +.vixvids.to
 +.viznet.ac.uk
 +.vk-apps.com
@@ -26576,7 +26595,6 @@ login.microsoftonline.com
 +.windsor-forest.ac.uk
 +.windsurf.build
 +.windsurf.com
-+.windy.com
 +.wing.com
 +.winhec.com
 +.winhec.net
@@ -27521,6 +27539,7 @@ login.microsoftonline.com
 +.yahoodns.net
 +.yahoofinance.com
 +.yahoohealth.com
++.yahooinc.com
 +.yahoomusic.com
 +.yahoosportsbook.com
 +.yaklass.ru
@@ -28549,6 +28568,7 @@ login.microsoftonline.com
 +.api.ai
 +.api.mixpanel.com
 +.api.moomoobull.com
++.api.shuaiapi.com
 +.apiary.io
 +.apigee.com
 +.apk-dl.com
@@ -28937,6 +28957,7 @@ login.microsoftonline.com
 +.breaking911.com
 +.breakingtweets.com
 +.breakwall.net
++.briarproject.org
 +.briefdream.com
 +.briian.com
 +.brill.com
@@ -29151,6 +29172,7 @@ login.microsoftonline.com
 +.chapm25.com
 +.character.ai
 +.chat.com
++.chatgpt.site
 +.chatnook.com
 +.chatpdf.com
 +.chaturbate.com
@@ -30389,6 +30411,7 @@ login.microsoftonline.com
 +.getlantern.org
 +.getmalus.com
 +.getmdl.io
++.getmonero.org
 +.getoutline.org
 +.getpricetag.com
 +.getsession.org
@@ -30713,6 +30736,7 @@ login.microsoftonline.com
 +.himemix.net
 +.hindustantimes.com
 +.hinet.net
++.historylines.net
 +.hitbtc.com
 +.hitomi.la
 +.hitun.io
@@ -31325,6 +31349,7 @@ login.microsoftonline.com
 +.kir.jp
 +.kissjav.com
 +.kiwi.kz
++.kiwix.org
 +.kk-whys.co.jp
 +.kkbox.com
 +.kknews.cc
@@ -31652,6 +31677,7 @@ login.microsoftonline.com
 +.mayimayi.com
 +.mcadforums.com
 +.mcaf.ee
++.mceindex.com
 +.mcfog.com
 +.mcreasite.com
 +.mcusercontent.com
@@ -32095,6 +32121,7 @@ login.microsoftonline.com
 +.nhncorp.jp
 +.nianticlabs.com
 +.nic.gov
++.nicoseiga.jp
 +.nicovideo.jp
 +.nighost.org
 +.nightlife141.com
@@ -32252,6 +32279,7 @@ login.microsoftonline.com
 +.okpool.me
 +.okx.com
 +.old-cat.net
++.oldmapsonline.org
 +.olehdtv.com
 +.olelive.com
 +.olevod.com
@@ -32948,6 +32976,7 @@ login.microsoftonline.com
 +.savevid.com
 +.say2.info
 +.sb-cd.com
++.sb.sb
 +.sbme.me
 +.sbs.com.au
 +.sbti.unun.dev
@@ -34470,6 +34499,7 @@ login.microsoftonline.com
 +.wilsoncenter.org
 +.windowsphoneme.com
 +.windscribe.com
++.windy.com
 +.wingamestore.com
 +.wingy.site
 +.winning11.com
@@ -34528,6 +34558,7 @@ login.microsoftonline.com
 +.wqyd.org
 +.wrchina.org
 +.wretch.cc
++.write.as
 +.writesonic.com
 +.wsj.com
 +.wsj.net
@@ -34561,6 +34592,7 @@ login.microsoftonline.com
 +.x24hr.com
 +.x365x.com
 +.x3guide.com
++.x86.fr
 +.xanga.com
 +.xbabe.com
 +.xbookcn.com

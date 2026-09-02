@@ -1,14 +1,14 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-08-12 02:54:20
+# UPDATED: 2026-09-01 06:20:03
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6760
+# DOMAIN-SUFFIX: 6772
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6900
+# TOTAL: 6912
 .000webhost.com
 .030buy.com
 .0rz.tw
@@ -391,6 +391,7 @@
 .api.mixpanel.com
 .api.moomoobull.com
 .api.proxlet.com
+.api.shuaiapi.com
 .api.termius.com
 .apiary.io
 .apigee.com
@@ -793,6 +794,7 @@
 .breaking911.com
 .breakingtweets.com
 .breakwall.net
+.briarproject.org
 .briefdream.com
 .briian.com
 .brill.com
@@ -1010,6 +1012,7 @@
 .character.ai
 .chat.com
 .chat.openai.com
+.chatgpt.site
 .chatnook.com
 .chatpdf.com
 .chaturbate.com
@@ -1235,7 +1238,6 @@
 .comments.app
 .commentshk.com
 .communistcrimes.org
-.community.windy.com
 .communitychoicecu.com
 .comodoca.com
 .comparitech.com
@@ -2262,6 +2264,7 @@
 .getlantern.org
 .getmalus.com
 .getmdl.io
+.getmonero.org
 .getoutline.org
 .getpricetag.com
 .getsession.org
@@ -2588,6 +2591,7 @@
 .himemix.net
 .hindustantimes.com
 .hinet.net
+.historylines.net
 .hitbtc.com
 .hitomi.la
 .hitun.io
@@ -3203,6 +3207,7 @@
 .kir.jp
 .kissjav.com
 .kiwi.kz
+.kiwix.org
 .kk-whys.co.jp
 .kkbox.com
 .kknews.cc
@@ -3533,6 +3538,7 @@
 .mayimayi.com
 .mcadforums.com
 .mcaf.ee
+.mceindex.com
 .mcfog.com
 .mcreasite.com
 .mcusercontent.com
@@ -3978,6 +3984,7 @@
 .nhncorp.jp
 .nianticlabs.com
 .nic.gov
+.nicoseiga.jp
 .nicovideo.jp
 .nighost.org
 .nightlife141.com
@@ -4137,6 +4144,7 @@
 .okpool.me
 .okx.com
 .old-cat.net
+.oldmapsonline.org
 .olehdtv.com
 .olelive.com
 .olevod.com
@@ -4836,6 +4844,7 @@
 .savevid.com
 .say2.info
 .sb-cd.com
+.sb.sb
 .sbme.me
 .sbs.com.au
 .sbti.unun.dev
@@ -6372,6 +6381,7 @@
 .wilsoncenter.org
 .windowsphoneme.com
 .windscribe.com
+.windy.com
 .wingamestore.com
 .wingy.site
 .winning11.com
@@ -6432,6 +6442,7 @@
 .wr.pvp.net
 .wrchina.org
 .wretch.cc
+.write.as
 .writesonic.com
 .wsj.com
 .wsj.net
@@ -6468,6 +6479,7 @@
 .x24hr.com
 .x365x.com
 .x3guide.com
+.x86.fr
 .xanga.com
 .xbabe.com
 .xbookcn.com
