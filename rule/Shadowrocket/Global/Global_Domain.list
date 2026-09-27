@@ -1,13 +1,13 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-09-02 04:26:29
+# UPDATED: 2026-09-26 04:58:35
 # DOMAIN: 128
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 34755
+# DOMAIN-SUFFIX: 34773
 # IP-CIDR: 116
 # USER-AGENT: 46
-# TOTAL: 35081
+# TOTAL: 35099
 .000webhost.com
 .01.org
 .02weqj32.com
@@ -51,6 +51,8 @@
 .119474.xyz
 .11jav.com
 .123-hp.com
+.123av.com
+.123av.me
 .123bin.cc
 .123dapp.com
 .123dappipad.com
@@ -6751,6 +6753,7 @@
 .chinesen.de
 .chinesenews.net.au
 .chinesepen.org
+.chineseposters.net
 .chineseradioseattle.com
 .chinesespanking.com
 .chinesetalks.net
@@ -7204,6 +7207,7 @@
 .code1984.com
 .codeberg.org
 .codeberg.page
+.codebuff.com
 .codecademy.com
 .codeforaliving.io
 .codeforces.com
@@ -11435,12 +11439,14 @@
 .firearmsworld.net
 .firebase-settings.crashlytics.com
 .firebase.com
+.firebase.dev
 .firebase.io
 .firebaseapp.com
 .firebaseio.com
 .firech.at
 .fireemblemawakening.com
 .fireflyresearch.ac.uk
+.firefox-portal-detection.com
 .firefox.com
 .firefox.hu
 .firefoxtweetmachine.com
@@ -11921,6 +11927,7 @@
 .freebrowser.org
 .freebs.com
 .freebsd.org
+.freebuff.com
 .freecamsfan.com
 .freecamstars.com
 .freecartoons.biz
@@ -18170,7 +18177,6 @@
 .likee.com
 .likeeapp.ru
 .likeevideo.com
-.likeevideo.ru
 .likeseiyu.com
 .liketruyen.net
 .liketwice.com
@@ -18247,6 +18253,7 @@
 .linux.do
 .linux.org
 .linux.org.hk
+.linux.sb
 .linuxfoundation.org
 .linuxfromscratch.org
 .linuxmint.com
@@ -21992,6 +21999,7 @@
 .nodereal.io
 .nodes.ac.uk
 .nodeseek.com
+.nodeseek.org
 .nodesnoop.com
 .nodesource.com
 .nofile.io
@@ -22058,6 +22066,7 @@
 .norton.com
 .norwichresearchpark.ac.uk
 .nos.nl
+.note.com
 .notegpt.io
 .notepad-plus-plus.org
 .noticias-rt.com
@@ -24958,6 +24967,7 @@
 .quadram.ac.uk
 .quadraminstitute.ac.uk
 .quadrat.ac.uk
+.quakemachinex.com
 .qualcomm-email.com
 .qualcomm-inc.com
 .qualcomm.co.id
@@ -25741,6 +25751,7 @@
 .roborecall.com
 .robotoffice.com
 .robustnessiskey.com
+.roc-taiwan.org
 .rochdalesfc.ac.uk
 .rocket-inc.net
 .rocket.chat
@@ -25811,6 +25822,7 @@
 .roughebonysex.com
 .roughman.net
 .roundtable.ac.uk
+.roushuwo.com
 .routerboard.com
 .routesintolanguages.ac.uk
 .routledgehandbooks.com
@@ -28427,6 +28439,9 @@
 .stripe-terminal-local-reader.net
 .stripe.ac.uk
 .stripe.com
+.stripe.dev
+.stripe.events
+.stripe.global
 .stripe.network
 .stripecdn.com
 .stripparadise.com
@@ -28866,6 +28881,7 @@
 .taiwancon.com
 .taiwandaily.net
 .taiwandc.org
+.taiwanembassy.org
 .taiwanhot.net
 .taiwanjobs.gov.tw
 .taiwanjustice.com
@@ -29218,6 +29234,7 @@
 .textnow.me
 .texttobuy.org
 .texture.com
+.tfbnw.net
 .tfc-taiwan.org.tw
 .tferwq.com
 .tfhub.dev
@@ -33024,6 +33041,7 @@
 .wspcr.ac.uk
 .wtbn.org
 .wtc.ac.uk
+.wtfpass.com
 .wtfpeople.com
 .wtmobile.com
 .wto.org
